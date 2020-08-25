@@ -190,11 +190,6 @@ const v4 = object({
           siftScience: string()
         })
       }),
-      shapeshift: object({
-        config: object({
-          apiKey: string()
-        })
-      }),
       sift: object({
         apiKey: string(),
         paymentKey: string()
